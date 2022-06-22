@@ -8,11 +8,12 @@
 ---
 ### イコールをそろえる
 
+   
     \begin{eqnarray}
     y &=& x \\
     &=& 1  
     \end{eqnarray}
-
+   
 ---
 ### infinity
 
